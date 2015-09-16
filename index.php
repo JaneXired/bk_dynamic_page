@@ -8,7 +8,9 @@ include("dbconnect.php");
 	<title>Gesundheit am Arbeitsplatz</title>
 	<meta name="description" content="Die Gesungheit am Arbeitsplatz ist ein wichtiges Thema, wir klären auf und machen eine Umfrage">
 	<link rel="stylesheet" href="css/style.css">
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js"></script>
+	<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+	<script  language="javascript" type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
+	<script  language="javascript" type="text/javascript" src="js/my.js"></script>
 </head>
 
 <body>
@@ -16,7 +18,15 @@ include("dbconnect.php");
 <div class="layer"> 
 	<div class="roleTop"></div>
 	<div class="roleLayer">
-		<button type="submit" name="action" value="0" class="submitButton">Ergebnisse zeigen</button> 	
+ 		<div class="form">
+ 			<label><h1>Frage Überschrift, voll toll und so</h1></label>
+ 			<fieldset>
+ 				<input type="radio" name="Anwort" value="1" id="One"><label for="One">Frage 1</label>
+				<input type="radio" name="Anwort" value="2" id="Two"><label for="Two">Frage 2</label>
+
+				<button class="button" type="submit" name="action" value="0" class="submitButton">Ergebnisse zeigen</button> 
+			</fieldset>
+		</div>
 	</div>
 	
 </div>
