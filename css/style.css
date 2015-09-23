@@ -1,8 +1,12 @@
-/*@import "foundation.css";*/
-
 * {
 	margin: 0;
 	padding: 0;
+}
+
+div:after {
+    content: '';
+    display: table;
+    clear: both;
 }
 
 body {
@@ -14,19 +18,96 @@ body {
 
 /* LAYER */
 .layer {
-	z-index: 1;
-	width: 100%;
-	height: 100%;
-	background-color: #8cd1ea;
-	position: fixed;
+	 z-index: 1;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    position: fixed;
+    display: block;
+    opacity: 1;
+}
+
+.layer.transition-layer {
+	z-index: -1;
+	opacity: 0;
+	transition: opacity 6s cubic-bezier(0.14, 0.39, 0.65, 0.96);
+    transform: translateZ(0);
 }
 
 .roleTop {
-	background: url(../img/rollo.png);
+	 background: url(../img/rollo.png) no-repeat;
+    width: 100%;
+    height: 161px;
+    background-position: -4px 0;
+    background-size: 100%;
+    z-index: 2;
+    position: absolute;
+    top: 0;
+}
+
+.roleTop.transition-top {
+ 	top: -150px; 
+ 	transition: top 3s cubic-bezier(0.14, 0.39, 0.65, 0.96);
 }
 
 .roleLayer {
-	background: url(../img/rollo1.png);
+    background: url(../img/rollo-1.png) no-repeat;
+    width: 90%;
+    height: 100%;
+    z-index: 1;
+    margin: 0 auto;
+    background-position: center 0;
+    top: 0;
+    position: relative;
+    background-size: 100%;
+}
+
+/*@media only screen and (max-width: 1200px) {
+    .roleLayer {
+        top: -120px;
+    }
+}
+
+@media only screen and (max-width: 1140px) {
+    .roleLayer {
+        top: -140px;
+    }
+}
+
+@media only screen and (max-width: 1075px) {
+    .roleLayer {
+        top: -180px;
+    }
+}
+
+@media only screen and (max-width: 950px) {
+    .roleLayer {
+        top: -240px;
+    }
+}
+
+@media only screen and (max-width: 755px) {
+    .roleLayer {
+        top: -280px;
+    }
+}*/
+
+.roleLayer.transition-rolelayer {
+ 	top: -930px; 
+ 	transition: top 2s cubic-bezier(0.14, 0.39, 0.65, 0.96);
+}
+
+.form {
+    position: absolute;
+    display: block;
+    margin: 0 auto;
+    left: 50%;
+    top: 25%;
+    transform: translateX(-50%);
+}
+
+.form button {
+	    margin: 40px 0;
 }
 
 /* CONTENT PAGE*/
