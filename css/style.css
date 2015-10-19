@@ -62,36 +62,6 @@ body {
     background-size: 100%;
 }
 
-/*@media only screen and (max-width: 1200px) {
-    .roleLayer {
-        top: -120px;
-    }
-}
-
-@media only screen and (max-width: 1140px) {
-    .roleLayer {
-        top: -140px;
-    }
-}
-
-@media only screen and (max-width: 1075px) {
-    .roleLayer {
-        top: -180px;
-    }
-}
-
-@media only screen and (max-width: 950px) {
-    .roleLayer {
-        top: -240px;
-    }
-}
-
-@media only screen and (max-width: 755px) {
-    .roleLayer {
-        top: -280px;
-    }
-}*/
-
 .roleLayer.transition-rolelayer {
  	top: -930px; 
  	transition: top 2s cubic-bezier(0.14, 0.39, 0.65, 0.96);
@@ -108,6 +78,10 @@ body {
 
 .form button {
 	    margin: 40px 0;
+}
+
+form label {
+    display: block;
 }
 
 /* CONTENT PAGE*/
