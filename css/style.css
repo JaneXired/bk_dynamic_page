@@ -1,6 +1,6 @@
 * {
-	margin: 0;
-	padding: 0;
+    margin: 0;
+    padding: 0;
 }
 
 div:after {
@@ -10,15 +10,15 @@ div:after {
 }
 
 body {
-	background-color: #fff;
-	color: #333;
-	font-family: "Century Gothic", Arial, sans-serif;
-	font-size: 14px;
+    background-color: #fff;
+    color: #333;
+    font-family: "Century Gothic", Arial, sans-serif;
+    font-size: 14px;
 }
 
 /* LAYER */
 .layer {
-	 z-index: 1;
+    z-index: 1;
     width: 100%;
     height: 100%;
     background-color: #fff;
@@ -28,14 +28,14 @@ body {
 }
 
 .layer.transition-layer {
-	z-index: -1;
-	opacity: 0;
-	transition: opacity 6s cubic-bezier(0.14, 0.39, 0.65, 0.96);
+    z-index: -1;
+    opacity: 0;
+    transition: opacity 6s cubic-bezier(0.14, 0.39, 0.65, 0.96);
     transform: translateZ(0);
 }
 
 .roleTop {
-	 background: url(../img/rollo.png) no-repeat;
+    background: url(../img/rollo.png) no-repeat;
     width: 100%;
     height: 161px;
     background-position: -4px 0;
@@ -46,8 +46,8 @@ body {
 }
 
 .roleTop.transition-top {
- 	top: -150px; 
- 	transition: top 3s cubic-bezier(0.14, 0.39, 0.65, 0.96);
+    top: -150px;
+    transition: top 3s cubic-bezier(0.14, 0.39, 0.65, 0.96);
 }
 
 .roleLayer {
@@ -63,66 +63,99 @@ body {
 }
 
 .roleLayer.transition-rolelayer {
- 	top: -930px; 
- 	transition: top 2s cubic-bezier(0.14, 0.39, 0.65, 0.96);
+    top: -930px;
+    transition: top 2s cubic-bezier(0.14, 0.39, 0.65, 0.96);
 }
 
 .form {
-    position: absolute;
-    display: block;
+    position: relative;
     margin: 0 auto;
-    left: 50%;
-    top: 25%;
-    transform: translateX(-50%);
+    max-width: 660px;
+    top: 20%;
 }
 
-.form button {
-	    margin: 40px 0;
+form fieldset {
+    border: none;
+}
+
+form .button {
+    margin: 40px 0;
+    padding: 10px 20px;
+    background: #5797C7;
+    border: none;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+form .button:hover {
+    background: #487DA5;
 }
 
 form label {
     display: block;
+    padding-bottom: 15px;
+    font-size: 16px;
+}
+
+form input {
+    margin: 0px 10px 0 0;
+    top: 2px;
+    position: relative;
+}
+
+form input[type="radio"] {
+    height: 20px;
+    width: 20px;
+
+    background-color: #fff;
+    box-shadow: none;
+    border: none;
+}
+
+
+form h1 {
+    padding-bottom: 20px;
 }
 
 /* CONTENT PAGE*/
 .content {
- z-index: 0;
+    z-index: 0;
 }
 
 /* NAVIGATION */
 
 body nav {
-	width: 100%;
-	height: 60px;
-	background-color: #34a8d3;
-	color: #fff;
+    width: 100%;
+    height: 60px;
+    background-color: #34a8d3;
+    color: #fff;
 }
 
 body nav ul {
-	padding: 12px;
+    padding: 12px;
 }
 
 body nav ul li {
-	display: inline;
+    display: inline;
     top: -12px;
     position: relative;
     padding: 0 5%;
 }
 
 body nav ul li:first-child {
-	padding: 0 20px 0 0;
-	top: 0;
+    padding: 0 20px 0 0;
+    top: 0;
 }
 
 body nav ul li a {
-	color: #fff;
-	font-size: 20px;
-	text-decoration: none;
-	transition: all 0.5s;
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+    transition: all 0.5s;
 }
 
 body nav ul li a:hover {
-	color: #053143;
+    color: #053143;
 }
 
 /* Navi Icons */
@@ -171,7 +204,7 @@ a.morgens:hover:before  {
 }
 
 a.mittags:hover:before  {
-   background-position: -90px -50px;
+    background-position: -90px -50px;
 }
 
 a.abends:hover:before  {

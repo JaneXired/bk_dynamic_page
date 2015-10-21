@@ -1,7 +1,3 @@
-<?php
-include("dbconnect.php");
-?>
-
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,15 +11,9 @@ include("dbconnect.php");
 </head>
 
 <body>
+
     <div class="layer">
         <?php include 'surveylayer.php' ?>
     </div>
 
-    <div class="content">
-        <?php include 'navi.php' ?>
-    </div>
-
-    <div class="bg">
-        <?php include 'img/cactus-big.svg' ?>
-    </div>
 </body>
