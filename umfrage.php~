@@ -1,6 +1,0 @@
-<?php 
-	$query = 'SELECT * FROM umfrage';
-	$result = mysql_query($query);
-	echo $result;
- ?>
-
