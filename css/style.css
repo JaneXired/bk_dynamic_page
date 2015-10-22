@@ -211,7 +211,24 @@ a.abends:hover:before  {
     background-position: -125px -49px;
 }
 
-
-
+/* SVG Styles*/
+svg {
+    width: 10%;
+}
+.st0{fill:#51A529;}
+.st1{fill:#3E8916;}
+.st2{fill:none;stroke:#3E8916;stroke-width:5.4108;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+.st3{fill:none;stroke:#386D16;stroke-width:5.4108;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+.st4{fill:#2C5414;}
+.st5{fill:#122606;}
+.st6{fill:#E0FFCC;}
+.st7{fill:#FFFFFF;}
+.st8{fill:#995D16;}
+.st9{fill:#845017;}
+.st10{fill:#C1871F;}
+#cactus-body {
+    -webkit-transition: transform 2s;
+    transition: transform 2s;
+}
 
 

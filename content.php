@@ -75,7 +75,15 @@
 
         $total = $data_anzahl1["antwort_1"] + $data_anzahl2["antwort_2"] + $data_anzahl3["antwort_3"] + $data_anzahl4["antwort_4"] + $data_anzahl5["antwort_5"] ;
 
-       $percent_antwort1 = ($data_anzahl1["antwort_1"] * 100) / $total;
+        $percent_antwort1 = ($data_anzahl1["antwort_1"] * 100) / $total;
+
+        $percent_antwort2 = ($data_anzahl2["antwort_2"] * 100) / $total;
+
+        $percent_antwort3 = ($data_anzahl3["antwort_3"] * 100) / $total;
+
+        $percent_antwort4 = ($data_anzahl4["antwort_4"] * 100) / $total;
+
+        $percent_antwort5 = ($data_anzahl5["antwort_5"] * 100) / $total;
 
 
 
@@ -95,24 +103,33 @@
                 $data_anzahl4[antwort_4] +
              ";
         echo "
-                $data_anzahl5[antwort_5] +
+                $data_anzahl5[antwort_5] =
              ";
 
 
-            echo "
-                $total,
+        echo " $total,<br/>";
 
-             ";
+        echo "Antwort 1 =  $percent_antwort1 %<br/>";
 
-        echo "
-                $percent_antwort1 %
+        echo "Antwort 2 =  $percent_antwort2 %<br/>";
 
-             ";
+        echo "Antwort 3 =  $percent_antwort3 %<br/>";
 
+        echo "Antwort 4 =  $percent_antwort4 %<br/>";
 
+        echo "Antwort 5 =  $percent_antwort5 %";
 
+        include ('img/cactus-big-01.svg');
+        include ('img/cactus-big-02.svg');
+        include ('img/cactus-big-03.svg');
+        include ('img/cactus-big-04.svg');
+        include ('img/cactus-big-05.svg');
 
         ?>
+
+
+
+
     </div>
 
 </body>
