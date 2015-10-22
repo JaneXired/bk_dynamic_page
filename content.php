@@ -27,26 +27,23 @@
        $antwort4 = 0;
        $antwort5 = 0;
 
-
-       if ($gruppe == "1") {
-           $antwort1 = 1;
-       } else {
-           if ($gruppe == "2") {
-               $antwort2 = 1;
-           } else {
-               if ($gruppe == "3") {
-                   $antwort3 = 1;
-               } else {
-                   if ($gruppe == "4") {
-                       $antwort4 = 1;
-                   } else {
-                       if ($gruppe == "5") {
-                           $antwort5 = 1;
-                       }
-                   }
-               }
-           }
-       }
+        switch ($gruppe) {
+            case "1":
+                $antwort1 = 1;
+                break;
+            case "2":
+                $antwort2 = 1;
+                break;
+            case "3":
+                $antwort3 = 1;
+                break;
+            case "4":
+                $antwort4 = 1;
+                break;
+            case "5":
+                $antwort5 = 1;
+                break;
+        }
 
        $eintrag = "INSERT INTO umfrage (antwort_1, antwort_2, antwort_3, antwort_4, antwort_5) VALUES (" . $antwort1 . ", " . $antwort2 . ", " . $antwort3 . ", " . $antwort4 . ", " . $antwort5 . ");";
        $eintragen = mysql_query($eintrag);
@@ -87,7 +84,7 @@
 
 
 
-            echo "
+         /*   echo "
                 $data_anzahl1[antwort_1] +
              ";
 
@@ -117,7 +114,7 @@
 
         echo "Antwort 4 =  $percent_antwort4 %<br/>";
 
-        echo "Antwort 5 =  $percent_antwort5 %";
+        echo "Antwort 5 =  $percent_antwort5 %";*/
 
         include ('img/cactus-big-01.svg');
         include ('img/cactus-big-02.svg');

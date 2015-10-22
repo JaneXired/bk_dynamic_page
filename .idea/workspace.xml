@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d936475-1f70-4e39-a128-12316212d3a6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cactus-big-01.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cactus-big-02.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cactus-big-03.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cactus-big-04.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cactus-big-05.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cactus-big-muster.svg" />
+    <list default="true" id="1d936475-1f70-4e39-a128-12316212d3a6" name="Default" comment="+let the svg cacti grow via db for diagram">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\bk_dynamic_page\Unbenanntes Dokument.docx" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/cactus-big-01.svg" afterPath="$PROJECT_DIR$/img/cactus-big-01.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/cactus-big-02.svg" afterPath="$PROJECT_DIR$/img/cactus-big-02.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/cactus-big-03.svg" afterPath="$PROJECT_DIR$/img/cactus-big-03.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/cactus-big-04.svg" afterPath="$PROJECT_DIR$/img/cactus-big-04.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/cactus-big-05.svg" afterPath="$PROJECT_DIR$/img/cactus-big-05.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content.php" afterPath="$PROJECT_DIR$/content.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="caro_janine_nico.iws" />
@@ -35,28 +35,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="408">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="content.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="content.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-24.76923" vertical-offset="1481" max-vertical-offset="2414">
-              <caret line="125" column="35" selection-start-line="125" selection-start-column="35" selection-end-line="125" selection-end-column="35" />
+            <state vertical-scroll-proportion="2.3525872" vertical-offset="0" max-vertical-offset="2363">
+              <caret line="115" column="0" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
               <folding>
-                <marker date="1445507801717" expanded="true" signature="1419:1597" placeholder="INSERT INTO ..." />
-                <marker date="1445507801717" expanded="true" signature="1667:1714" placeholder="SELECT SUM(a..umfrage..." />
-                <marker date="1445507801717" expanded="true" signature="1848:1895" placeholder="SELECT SUM(a..umfrage..." />
-                <marker date="1445507801717" expanded="true" signature="2029:2076" placeholder="SELECT SUM(a..umfrage..." />
-                <marker date="1445507801717" expanded="true" signature="2210:2257" placeholder="SELECT SUM(a..umfrage..." />
-                <marker date="1445507801717" expanded="true" signature="2391:2438" placeholder="SELECT SUM(a..umfrage..." />
+                <marker date="1445524859703" expanded="true" signature="1307:1485" placeholder="INSERT INTO ..." />
+                <marker date="1445524859703" expanded="true" signature="1555:1602" placeholder="SELECT SUM(a..umfrage..." />
+                <marker date="1445524859703" expanded="true" signature="1736:1783" placeholder="SELECT SUM(a..umfrage..." />
+                <marker date="1445524859703" expanded="true" signature="1917:1964" placeholder="SELECT SUM(a..umfrage..." />
+                <marker date="1445524859703" expanded="true" signature="2098:2145" placeholder="SELECT SUM(a..umfrage..." />
+                <marker date="1445524859703" expanded="true" signature="2279:2326" placeholder="SELECT SUM(a..umfrage..." />
               </folding>
             </state>
           </provider>
@@ -66,7 +56,7 @@
         <entry file="file://$PROJECT_DIR$/img/cactus-big-05.svg">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-22.9" vertical-offset="996" max-vertical-offset="1836">
-              <caret line="99" column="120" selection-start-line="99" selection-start-column="120" selection-end-line="99" selection-end-column="120" />
+              <caret line="99" column="112" selection-start-line="99" selection-start-column="112" selection-end-line="99" selection-end-column="112" />
               <folding />
             </state>
           </provider>
@@ -79,17 +69,17 @@
         <entry file="file://$PROJECT_DIR$/img/cactus-big-03.svg">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="949" max-vertical-offset="1836">
-              <caret line="99" column="40" selection-start-line="99" selection-start-column="40" selection-end-line="99" selection-end-column="40" />
+              <caret line="99" column="112" selection-start-line="99" selection-start-column="112" selection-end-line="99" selection-end-column="112" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cactus-big-02.svg" pinned="false" current-in-tab="true">
+      <file leaf-file-name="cactus-big-02.svg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/img/cactus-big-02.svg">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7264368" vertical-offset="966" max-vertical-offset="1836">
-              <caret line="94" column="82" selection-start-line="94" selection-start-column="82" selection-end-line="94" selection-end-column="82" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="966" max-vertical-offset="1836">
+              <caret line="96" column="29" selection-start-line="96" selection-start-column="29" selection-end-line="96" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -99,7 +89,7 @@
         <entry file="file://$PROJECT_DIR$/img/cactus-big-01.svg">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="983" max-vertical-offset="1853">
-              <caret line="100" column="33" selection-start-line="100" selection-start-column="33" selection-end-line="100" selection-end-column="33" />
+              <caret line="100" column="105" selection-start-line="100" selection-start-column="105" selection-end-line="100" selection-end-column="105" />
               <folding />
             </state>
           </provider>
@@ -108,13 +98,23 @@
       <file leaf-file-name="cactus-big-04.svg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/img/cactus-big-04.svg">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-22.9" vertical-offset="996" max-vertical-offset="1836">
-              <caret line="99" column="120" selection-start-line="99" selection-start-column="120" selection-end-line="99" selection-end-column="120" />
+            <state vertical-scroll-proportion="-1.7" vertical-offset="0" max-vertical-offset="1836">
+              <caret line="3" column="107" selection-start-line="3" selection-start-column="107" selection-end-line="3" selection-end-column="107" />
               <folding />
             </state>
           </provider>
           <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -166,12 +166,13 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/img/cactus-big-muster.svg" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/img/cactus-big-02.svg" />
         <option value="$PROJECT_DIR$/img/cactus-big-03.svg" />
+        <option value="$PROJECT_DIR$/img/cactus-big-05.svg" />
         <option value="$PROJECT_DIR$/img/cactus-big-01.svg" />
         <option value="$PROJECT_DIR$/img/cactus-big-04.svg" />
-        <option value="$PROJECT_DIR$/img/cactus-big-05.svg" />
         <option value="$PROJECT_DIR$/content.php" />
-        <option value="$PROJECT_DIR$/img/cactus-big-02.svg" />
       </list>
     </option>
   </component>
@@ -254,6 +255,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="caro_janine_nico" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bk_dynamic_page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -269,6 +284,121 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\bk_dynamic_page\img" />
     </key>
+  </component>
+  <component name="RestoreUpdateTree">
+    <UpdateInfo date="Moments ago" ActionInfo="_Update">
+      <UpdatedFiles>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated from server" />
+          <option name="myStatusName" value="Changed on server" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CHANGED_ON_SERVER" />
+          <FILE-GROUP>
+            <option name="myUpdateName" value="Updated" />
+            <option name="myStatusName" value="Changed" />
+            <option name="mySupportsDeletion" value="false" />
+            <option name="myCanBeAbsent" value="false" />
+            <option name="myId" value="UPDATED" />
+          </FILE-GROUP>
+          <FILE-GROUP>
+            <option name="myUpdateName" value="Created" />
+            <option name="myStatusName" value="Created" />
+            <option name="mySupportsDeletion" value="false" />
+            <option name="myCanBeAbsent" value="false" />
+            <option name="myId" value="CREATED" />
+          </FILE-GROUP>
+          <FILE-GROUP>
+            <option name="myUpdateName" value="Deleted" />
+            <option name="myStatusName" value="Deleted" />
+            <option name="mySupportsDeletion" value="false" />
+            <option name="myCanBeAbsent" value="true" />
+            <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/dbconnect.php~</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/index.php~</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/navi.php~</PATH>
+            <PATH vcs="Git" revision="">$PROJECT_DIR$/umfrage.php~</PATH>
+          </FILE-GROUP>
+          <FILE-GROUP>
+            <option name="myUpdateName" value="Restored" />
+            <option name="myStatusName" value="Will be restored" />
+            <option name="mySupportsDeletion" value="false" />
+            <option name="myCanBeAbsent" value="false" />
+            <option name="myId" value="RESTORED" />
+          </FILE-GROUP>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Modified" />
+          <option name="myStatusName" value="Modified" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MODIFIED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Skipped" />
+          <option name="myStatusName" value="Skipped" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="SKIPPED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Merged with conflicts" />
+          <option name="myStatusName" value="Will be merged with conflicts" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MERGED_WITH_CONFLICTS" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Merged with tree conflicts" />
+          <option name="myStatusName" value="Merged with tree conflicts" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Merged with property conflicts" />
+          <option name="myStatusName" value="Will be merged with property conflicts" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Merged" />
+          <option name="myStatusName" value="Will be merged" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MERGED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Not in repository" />
+          <option name="myStatusName" value="Not in repository" />
+          <option name="mySupportsDeletion" value="true" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UNKNOWN" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Locally added" />
+          <option name="myStatusName" value="Locally added" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="LOCALLY_ADDED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Locally removed" />
+          <option name="myStatusName" value="Locally removed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="LOCALLY_REMOVED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Switched" />
+          <option name="myStatusName" value="Switched" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="SWITCHED" />
+        </FILE-GROUP>
+      </UpdatedFiles>
+    </UpdateInfo>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -327,20 +457,27 @@
       <option name="project" value="LOCAL" />
       <updated>1445445949785</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="+let the svg cacti grow via db for diagram">
+      <created>1445508609249</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1445508609249</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26332623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26332623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -349,7 +486,6 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -374,7 +510,8 @@
     <MESSAGE value="+ new stuff" />
     <MESSAGE value="+ db connection in result.php and code styling stuff" />
     <MESSAGE value="+ DB Sum the results and caculate it in percent for later animation" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ DB Sum the results and caculate it in percent for later animation" />
+    <MESSAGE value="+let the svg cacti grow via db for diagram" />
+    <option name="LAST_COMMIT_MESSAGE" value="+let the svg cacti grow via db for diagram" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -412,12 +549,12 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2125">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1445507801717" expanded="true" signature="1419:1597" placeholder="INSERT INTO ..." />
-            <marker date="1445507801717" expanded="true" signature="1667:1714" placeholder="SELECT SUM(a..umfrage..." />
-            <marker date="1445507801717" expanded="true" signature="1848:1895" placeholder="SELECT SUM(a..umfrage..." />
-            <marker date="1445507801717" expanded="true" signature="2029:2076" placeholder="SELECT SUM(a..umfrage..." />
-            <marker date="1445507801717" expanded="true" signature="2210:2257" placeholder="SELECT SUM(a..umfrage..." />
-            <marker date="1445507801717" expanded="true" signature="2391:2438" placeholder="SELECT SUM(a..umfrage..." />
+            <marker date="1445524859703" expanded="true" signature="1307:1485" placeholder="INSERT INTO ..." />
+            <marker date="1445524859703" expanded="true" signature="1555:1602" placeholder="SELECT SUM(a..umfrage..." />
+            <marker date="1445524859703" expanded="true" signature="1736:1783" placeholder="SELECT SUM(a..umfrage..." />
+            <marker date="1445524859703" expanded="true" signature="1917:1964" placeholder="SELECT SUM(a..umfrage..." />
+            <marker date="1445524859703" expanded="true" signature="2098:2145" placeholder="SELECT SUM(a..umfrage..." />
+            <marker date="1445524859703" expanded="true" signature="2279:2326" placeholder="SELECT SUM(a..umfrage..." />
           </folding>
         </state>
       </provider>
@@ -656,10 +793,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/cactus-big-02.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="966" max-vertical-offset="1836">
+          <caret line="96" column="29" selection-start-line="96" selection-start-column="29" selection-end-line="96" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/img/cactus-big-03.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="949" max-vertical-offset="1836">
-          <caret line="99" column="40" selection-start-line="99" selection-start-column="40" selection-end-line="99" selection-end-column="40" />
+          <caret line="99" column="112" selection-start-line="99" selection-start-column="112" selection-end-line="99" selection-end-column="112" />
           <folding />
         </state>
       </provider>
@@ -667,15 +812,23 @@
     <entry file="file://$PROJECT_DIR$/img/cactus-big-01.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="983" max-vertical-offset="1853">
-          <caret line="100" column="33" selection-start-line="100" selection-start-column="33" selection-end-line="100" selection-end-column="33" />
+          <caret line="100" column="105" selection-start-line="100" selection-start-column="105" selection-end-line="100" selection-end-column="105" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/cactus-big-04.svg">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="870">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/cactus-big-05.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-22.9" vertical-offset="996" max-vertical-offset="1836">
-          <caret line="99" column="120" selection-start-line="99" selection-start-column="120" selection-end-line="99" selection-end-column="120" />
+          <caret line="99" column="112" selection-start-line="99" selection-start-column="112" selection-end-line="99" selection-end-column="112" />
           <folding />
         </state>
       </provider>
@@ -683,10 +836,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/cactus-big-05.svg">
+    <entry file="file://$PROJECT_DIR$/img/cactus-big-04.svg">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.9" vertical-offset="996" max-vertical-offset="1836">
-          <caret line="99" column="120" selection-start-line="99" selection-start-column="120" selection-end-line="99" selection-end-column="120" />
+        <state vertical-scroll-proportion="-1.7" vertical-offset="0" max-vertical-offset="1836">
+          <caret line="3" column="107" selection-start-line="3" selection-start-column="107" selection-end-line="3" selection-end-column="107" />
           <folding />
         </state>
       </provider>
@@ -696,24 +849,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-24.76923" vertical-offset="1481" max-vertical-offset="2414">
-          <caret line="125" column="35" selection-start-line="125" selection-start-column="35" selection-end-line="125" selection-end-column="35" />
+        <state vertical-scroll-proportion="2.3525872" vertical-offset="0" max-vertical-offset="2363">
+          <caret line="115" column="0" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
           <folding>
-            <marker date="1445507801717" expanded="true" signature="1419:1597" placeholder="INSERT INTO ..." />
-            <marker date="1445507801717" expanded="true" signature="1667:1714" placeholder="SELECT SUM(a..umfrage..." />
-            <marker date="1445507801717" expanded="true" signature="1848:1895" placeholder="SELECT SUM(a..umfrage..." />
-            <marker date="1445507801717" expanded="true" signature="2029:2076" placeholder="SELECT SUM(a..umfrage..." />
-            <marker date="1445507801717" expanded="true" signature="2210:2257" placeholder="SELECT SUM(a..umfrage..." />
-            <marker date="1445507801717" expanded="true" signature="2391:2438" placeholder="SELECT SUM(a..umfrage..." />
+            <marker date="1445524859703" expanded="true" signature="1307:1485" placeholder="INSERT INTO ..." />
+            <marker date="1445524859703" expanded="true" signature="1555:1602" placeholder="SELECT SUM(a..umfrage..." />
+            <marker date="1445524859703" expanded="true" signature="1736:1783" placeholder="SELECT SUM(a..umfrage..." />
+            <marker date="1445524859703" expanded="true" signature="1917:1964" placeholder="SELECT SUM(a..umfrage..." />
+            <marker date="1445524859703" expanded="true" signature="2098:2145" placeholder="SELECT SUM(a..umfrage..." />
+            <marker date="1445524859703" expanded="true" signature="2279:2326" placeholder="SELECT SUM(a..umfrage..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/cactus-big-02.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7264368" vertical-offset="966" max-vertical-offset="1836">
-          <caret line="94" column="82" selection-start-line="94" selection-start-column="82" selection-end-line="94" selection-end-column="82" />
-          <folding />
         </state>
       </provider>
     </entry>
