@@ -267,4 +267,40 @@ svg.main-bg {
     transition: transform 2s;
 }
 
+#mond {
+	transform: translate(-300px, 330px);
+}
+
+#himmel {
+	fill: #408CBB;
+}
+
+/* keyframes */
+@keyframes lampenschein {
+	0%{
+		opacity: 0.35;
+	}
+	4% {
+		opacity: 0;
+	}
+	8% {
+		opacity: 0.35;
+	}
+	12% {
+		opacity: 0;
+	}
+	16% {
+		opacity: 0.35;
+	}
+	100%{
+		opacity: 0.35;
+	}
+}
+
+#lampenschein {
+	animation-name: lampenschein;
+	animation-duration: 5s;
+	animation-iteration-count: infinite;
+}
+
 

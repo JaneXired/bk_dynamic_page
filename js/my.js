@@ -6,11 +6,55 @@ $( document ).ready(function() {
 		});
 
 
-        $('.morgens').on('click', function(){
-           $('#sonne_mittag').css('display', 'none');
+        $('.mittags').on('click', function(){
+           $('#sonne_morgens').css({
+               'transform' : 'translate(75px, -145px)',
+               'transition' : 'transform 2s'
+           });
+           $('#himmel').css({
+               'fill': '#B9E3F3',
+               'transition' : 'fill 2s'
+           })
            $('#sterne').css('display', 'none');
-           $('#mond').css('display', 'none');
+
+            $('#mond').css({
+                'transform' : 'translate(300px, 330px)',
+                'transition' : 'transform 2s'
+            });
         });
+
+
+    $('.morgens').on('click', function(){
+        $('#sonne_morgens').css({
+            'transform' : 'translate(0, 0)',
+            'transition' : 'transform 2s'
+        });
+        $('#himmel').css({
+            'fill': '#408CBB',
+            'transition' : 'fill 2s'
+        })
+        $('#sterne').css('display', 'block');
+        $('#mond').css({
+            'transform' : 'translate(-300px, 330px)',
+            'transition' : 'transform 2s'
+        });
+    });
+
+    $('.abends').on('click', function(){
+        $('#sonne_morgens').css({
+            'transform' : 'translate(270px, 260px)',
+            'transition' : 'transform 2s'
+        });
+        $('#himmel').css({
+            'fill': '#000',
+            'transition' : 'fill 2s'
+        })
+        $('#sterne').css('display', 'block');
+        $('#mond').css({
+            'transform' : 'translate(15px, -25px)',
+            'transition' : 'transform 2s'
+        });
+    });
 });
 
 $(function () {

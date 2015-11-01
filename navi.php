@@ -3,9 +3,9 @@
 		<li>
 			<img src="img/logo.png" alt="Fit druch den Arbeitstag">		
 		</li>
-		<li>
+		<!--<li>
 			<a href="#home" class="home">Home</a>					
-		</li>	
+		</li>	-->
 		<li>
 			<a href="#morgens" class="morgens">Morgens</a>					
 		</li>	
