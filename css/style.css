@@ -137,9 +137,9 @@ body nav ul {
 
 body nav ul li {
     display: inline;
-    top: -12px;
+    top: -14px;
     position: relative;
-    padding: 0 5%;
+    padding: 0 11px;
 }
 
 body nav ul li:first-child {
@@ -147,9 +147,19 @@ body nav ul li:first-child {
     top: 0;
 }
 
+@media only screen and (max-width: 835px) {
+	body nav ul li:first-child img {
+		width: 35%;
+	}
+
+	body nav ul li {
+		top: -9px;
+	}
+}
+
 body nav ul li a {
     color: #fff;
-    font-size: 20px;
+    font-size: 14px;
     text-decoration: none;
     transition: all 0.5s;
 }
@@ -162,8 +172,8 @@ body nav ul li a:hover {
 a.home:before {
     content: "";
     background: url("../img/sprite.png") no-repeat;
-    background-position: -10px -9px;
-    background-size: 160px;
+	background-position: -7px -11px;
+	background-size: 152px;
     padding-right: 25px;
     transition: all 0.5s;
 }
@@ -171,8 +181,8 @@ a.home:before {
 a.morgens:before {
     content: "";
     background: url("../img/sprite.png") no-repeat;
-    background-position: -50px -7px;
-    background-size: 160px;
+	background-position: -47px -11px;
+	background-size: 152px;
     padding-right: 25px;
     transition: all 0.5s;
 }
@@ -180,8 +190,8 @@ a.morgens:before {
 a.mittags:before {
     content: "";
     background: url("../img/sprite.png") no-repeat;
-    background-position: -90px -9px;
-    background-size: 160px;
+	background-position: -85px -11px;
+	background-size: 152px;
     padding-right: 25px;
     transition: all 0.5s;
 }
@@ -189,29 +199,40 @@ a.mittags:before {
 a.abends:before {
     content: "";
     background: url("../img/sprite.png") no-repeat;
-    background-position: -125px -8px;
-    background-size: 160px;
+	background-position: -122px -11px;
+	background-size: 152px;
     padding-right: 25px;
     transition: all 0.5s;
 }
 
 a.home:hover:before  {
-    background-position: -10px -50px;
+    background-position: -7px -52px;
 }
 
 a.morgens:hover:before  {
-    background-position: -50px -48px;
+    background-position: -47px -51px;
 }
 
 a.mittags:hover:before  {
-    background-position: -90px -50px;
+    background-position: -85px -51px;
 }
 
 a.abends:hover:before  {
-    background-position: -125px -49px;
+    background-position: -122px -51px;
 }
 
 /* SVG Styles*/
+svg.main-bg {
+	width: 100%;
+	top: 0;
+	position: relative;
+	display: inline-block;
+	padding: 0;
+}
+
+
+
+
 svg {
     width: 10%;
 }
@@ -226,6 +247,7 @@ svg {
 .st8{fill:#995D16;}
 .st9{fill:#845017;}
 .st10{fill:#C1871F;}
+
 #cactus-body {
     -webkit-transition: transform 2s;
     transition: transform 2s;

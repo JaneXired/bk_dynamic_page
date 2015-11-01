@@ -12,8 +12,21 @@
 
 <body>
 
-    <div class="layer">
-        <?php include 'surveylayer.php' ?>
-    </div>
+	<div class="layer">
+	    <?php include 'surveylayer.php' ?>
+	</div>
+
+
+	<div class="content">
+
+		<header>
+			<?php include 'navi.php' ?>
+		</header>
+
+		<?php include 'img/main-bg.svg' ?>
+
+	</div>
+
+
 
 </body>
