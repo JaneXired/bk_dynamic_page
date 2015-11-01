@@ -120,6 +120,8 @@ form h1 {
 /* CONTENT PAGE*/
 .content {
     z-index: 0;
+	position: relative;
+	height: 500px;
 }
 
 /* NAVIGATION */
@@ -221,13 +223,31 @@ a.abends:hover:before  {
     background-position: -122px -51px;
 }
 
+/* result cati */
+section.result-cacti {
+	z-index: 1;
+	background-color: #fff;
+	position: absolute;
+	top: 59px;
+	width: 100%;
+	left: 0;
+	height: 100%;
+}
+
+/* main-svg section */
+
+section.main-svg {
+	position: absolute;
+	top: 59px;
+	width: 100%;
+	left: 0;
+	z-index: 0;
+}
+
+
 /* SVG Styles*/
 svg.main-bg {
 	width: 100%;
-}
-
-svg {
-    width: 10%;
 }
 
 .st0{fill:#51A529;}
@@ -242,7 +262,7 @@ svg {
 .st9{fill:#845017;}
 .st10{fill:#C1871F;}
 
-#cactus-body {
+#cactus-body-1, #cactus-body-2, #cactus-body-3, #cactus-body-4, #cactus-body-5 {
     -webkit-transition: transform 2s;
     transition: transform 2s;
 }

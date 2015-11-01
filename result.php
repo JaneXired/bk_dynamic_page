@@ -1,18 +1,4 @@
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Gesundheit am Arbeitsplatz</title>
-	<meta name="description"
-	      content="Die Gesungheit am Arbeitsplatz ist ein wichtiges Thema, wir klären auf und machen eine Umfrage">
-	<link rel="stylesheet" href="css/style.css">
-	<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
-	<script language="javascript" type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
-	<script language="javascript" type="text/javascript" src="js/my.js"></script>
-</head>
-<body>
-<div class="result">
-
-	<?php
+<?php
 
 	include("dbconnect.php");
 
@@ -85,17 +71,28 @@
 
 	$percent_antwort5 = ($data_anzahl5["antwort_5"] * 100) / $total;
 
+
+	$zwischenwert_1 = 100 - $percent_antwort1;
+
+	$zwischenwert_2 = 100 - $percent_antwort2;
+
+	$zwischenwert_3 = 100 - $percent_antwort3;
+
+	$zwischenwert_4 = 100 - $percent_antwort4;
+
+	$zwischenwert_5 = 100 - $percent_antwort5;
+
 	/* Umrechnung von Prozent in px, da sonst der Browser den inlinestyle nicht interpretieren kann*/
 
-	$px_antwort1 = ($percent_antwort1 * 747.46) / 100;
+	$px_antwort1 = ((($zwischenwert_1 * 572.302) / 100) / 2) + 35;
 
-	$px_antwort2 = ($percent_antwort2 * 747.46) / 100;
+	$px_antwort2 = ((($zwischenwert_2 * 572.302) / 100) / 2) + 35;
 
-	$px_antwort3 = ($percent_antwort3 * 747.46) / 100;
+	$px_antwort3 = ((($zwischenwert_3 * 572.302) / 100) / 2) + 35;
 
-	$px_antwort4 = ($percent_antwort4 * 747.46) / 100;
+	$px_antwort4 = ((($zwischenwert_4 * 572.302) / 100) / 2) + 35;
 
-	$px_antwort5 = ($percent_antwort5 * 747.46) / 100;
+	$px_antwort5 = ((($zwischenwert_5 * 572.302) / 100) / 2) + 35;
 
 
 
@@ -131,21 +128,33 @@
 
 	echo "Antwort 5 =  $percent_antwort5 %";*/
 
-	include ('img/cactus-big-01.svg');
-	include ('img/cactus-big-02.svg');
-	include ('img/cactus-big-03.svg');
-	include ('img/cactus-big-04.svg');
-	include ('img/cactus-big-05.svg');
+$results = array (
+	'antwort-1' => array(
+		'prozent' => $percent_antwort1,
+		'pixel'   => $px_antwort1),
+
+	'antwort-2' => array(
+		'prozent' => $percent_antwort2,
+		'pixel'   => $px_antwort2),
+
+	'antwort-3' => array(
+		'prozent' => $percent_antwort3,
+		'pixel'   => $px_antwort3),
+
+	'antwort-4' => array(
+		'prozent' => $percent_antwort4,
+		'pixel'   => $px_antwort4),
+
+	'antwort-5' => array(
+		'prozent' => $percent_antwort5,
+		'pixel'   => $px_antwort5)
+
+);
+
+echo json_encode($results);
+
 
 	?>
-
-	<button><a href="index.php">Zur Startseite</a></button>
-
-
-</div>
-
-</body>
-
 
 
 

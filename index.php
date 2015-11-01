@@ -23,7 +23,12 @@
 			<?php include 'navi.php' ?>
 		</header>
 
-		<?php include 'img/main-bg.svg' ?>
+
+		<section class="main-svg">
+			<?php
+				include 'img/main.svg'
+			?>
+		</section>
 
 	</div>
 

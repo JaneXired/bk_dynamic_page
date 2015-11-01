@@ -2,7 +2,7 @@
 <svg version="1.1" id="Objects" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="454 38.3 115.9 526.6" style="enable-background:new 454 38.3 115.9 526.6;" xml:space="preserve">
 
-            <g id="cactus-body" style="transform: translate(0,<?php echo ($px_antwort5) ?>px);">
+            <g id="cactus-body-5">
                 <g>
                 		<path class="st0" d="M531.1,148.4l-0.4-17.2h-0.1c0,0,3.7-0.2,7.4-2.3c4.5-2.6,7.2-6.9,8-13.2c0.7-4.7,5-8,9.7-7.3
                 			c4.7,0.7,8,5,7.3,9.7C559.8,141.5,540.7,148.1,531.1,148.4z"/>
@@ -98,7 +98,7 @@
                 	<g id="LABEL">
                 		<path class="st7" d="M545,369.7c-21.7-2.7-43.8-2.7-65.5,0c-1.3-9.9-2.5-19.8-3.8-29.7c24.2-3.1,48.8-3.1,73,0
                 			C547.5,349.8,546.3,359.8,545,369.7z"/>
-                			<text x="495" y="360" font-family="Century Gothic" font-size="12" font-weight="bold""> <?php echo round($percent_antwort5, 1)?>% </text>
+                			<text id="antwort-5-text" x="495" y="360" font-family="Century Gothic" font-size="12" font-weight="bold"></text>
                 	</g>
                 </g>
 </svg>

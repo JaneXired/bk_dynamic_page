@@ -2,7 +2,7 @@
 <div class="roleLayer">
 
 
-    <form class="form" action="result.php" name="umfrage" method="post">
+    <form class="form" action="/" name="umfrage" method="post">
         <h1>Wie ist Ihre Gesundheit am Arbeitsplatz?</h1>
         <fieldset>
             <label><input type="radio" name="gruppe" value="1"> Ich habe gesundheitliche Problem, die ich auf meine Arbeit zurückführe</label>
