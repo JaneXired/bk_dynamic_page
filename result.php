@@ -47,6 +47,8 @@
 
 
 
+	/* Abfragen der Anazahl der Antworten */
+
 	$anzahl1 = "SELECT SUM(antwort_1) AS antwort_1 FROM umfrage;";
 	$result_anzahl1 = mysql_query($anzahl1);
 	$data_anzahl1 = mysql_fetch_array($result_anzahl1);
@@ -67,7 +69,11 @@
 	$result_anzahl5 = mysql_query($anzahl5);
 	$data_anzahl5 = mysql_fetch_array($result_anzahl5);
 
+	/* Gesamtantworten */
+
 	$total = $data_anzahl1["antwort_1"] + $data_anzahl2["antwort_2"] + $data_anzahl3["antwort_3"] + $data_anzahl4["antwort_4"] + $data_anzahl5["antwort_5"] ;
+
+	/* Prozentumrechnung der einzelnen Antworten */
 
 	$percent_antwort1 = ($data_anzahl1["antwort_1"] * 100) / $total;
 
@@ -79,9 +85,21 @@
 
 	$percent_antwort5 = ($data_anzahl5["antwort_5"] * 100) / $total;
 
+	/* Umrechnung von Prozent in px, da sonst der Browser den inlinestyle nicht interpretieren kann*/
+
+	$px_antwort1 = ($percent_antwort1 * 747.46) / 100;
+
+	$px_antwort2 = ($percent_antwort2 * 747.46) / 100;
+
+	$px_antwort3 = ($percent_antwort3 * 747.46) / 100;
+
+	$px_antwort4 = ($percent_antwort4 * 747.46) / 100;
+
+	$px_antwort5 = ($percent_antwort5 * 747.46) / 100;
 
 
-	/*   echo "
+
+	  /* echo "
 			$data_anzahl1[antwort_1] +
 		 ";
 
