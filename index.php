@@ -26,6 +26,12 @@
 
 		<section class="main-svg">
 			<?php
+				include 'img/uebung-morgen.svg';
+
+				include 'img/uebung-mittag.svg';
+
+				include 'img/uebung-abend.svg';
+
 				include 'img/main.svg'
 			?>
 		</section>

@@ -305,4 +305,29 @@ svg.main-bg {
 	animation-iteration-count: infinite;
 }
 
+/* RESULT HOVER*/
+#antwort-5-text,
+#antwort-4-text,
+#antwort-3-text,
+#antwort-2-text,
+#antwort-1-text {
+	display: none;
+	background-color: #fff;
+	color: #333;
+	width: 30px;
+	padding: 20px;
+	position: absolute;
+}
+
+/* practices */
+#uebung-morgen, #uebung-mittag, #uebung-abend {
+	display: none;
+	position: absolute;
+	width: 60%;
+	left: 15%;
+	background-color: #fff;
+	padding: 20px;
+	margin-top: 1%;
+}
+
 
