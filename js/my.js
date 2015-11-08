@@ -1,27 +1,29 @@
 $( document ).ready(function() {
-    	$('.button').on('click', function(){
-    		$('.roleTop').toggleClass('transition-top');
-    		$('.roleLayer').toggleClass('transition-rolelayer');
-    		$('.layer').toggleClass('transition-layer');
-		});
 
+    /* function for layer */
+    $('.button').on('click', function(){
+        $('.roleTop').toggleClass('transition-top');
+        $('.roleLayer').toggleClass('transition-rolelayer');
+        $('.layer').toggleClass('transition-layer');
+    });
 
-        $('.mittags').on('click', function(){
-           $('#sonne_morgens').css({
-               'transform' : 'translate(75px, -145px)',
-               'transition' : 'transform 2s'
-           });
-           $('#himmel').css({
-               'fill': '#B9E3F3',
-               'transition' : 'fill 2s'
-           })
-           $('#sterne').css('display', 'none');
+    /* function for navigation - window transition */
+    $('.mittags').on('click', function(){
+       $('#sonne_morgens').css({
+           'transform' : 'translate(75px, -145px)',
+           'transition' : 'transform 2s'
+       });
+       $('#himmel').css({
+           'fill': '#B9E3F3',
+           'transition' : 'fill 2s'
+       })
+       $('#sterne').css('display', 'none');
 
-            $('#mond').css({
-                'transform' : 'translate(300px, 330px)',
-                'transition' : 'transform 2s'
-            });
+        $('#mond').css({
+            'transform' : 'translate(300px, 330px)',
+            'transition' : 'transform 2s'
         });
+    });
 
 
     $('.morgens').on('click', function(){
@@ -57,6 +59,8 @@ $( document ).ready(function() {
     });
 });
 
+
+/* ajax function for dynamic grow of cati (diagram)  */
 $(function () {
     var gruppe;
     $('.form').on('submit', function (e) {
@@ -102,4 +106,3 @@ $(function () {
     })
 
 });
-

@@ -1302,11 +1302,14 @@
 			<g id="LABEL_4_">
 				<path fill="#FFFFFF" d="M-1267.9-743.2c-31.6-4.1-63.6-4.1-95.2,0c-1.9-15.2-3.6-30.3-5.5-45.5c35.2-4.8,70.9-4.8,106,0
 					C-1264.2-773.6-1266-758.3-1267.9-743.2z"/>
-					<text id="antwort-5-text" x="495" y="360" font-family="Century Gothic" font-size="12" font-weight="bold"></text>
+
 			</g>
 		</g>
 	</g>
 </g>
 <rect id="fenstersockel" x="-2202.3" y="-712.5" fill="#D9DAD8" width="1000.7" height="25.9"/>
 <rect x="-2204.8" y="-686" fill="#8DC6E0" width="1009.4" height="355.4"/>
+
+<text id="antwort-5-text" x="-500" y="-760" font-family="Century Gothic" font-size="50" font-weight="bold"></text>
+
 </svg>
