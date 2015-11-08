@@ -25,6 +25,21 @@ $( document ).ready(function() {
             'transition' : 'transform 2s'
         });
 
+        $('#bg').css({
+            'fill': '#1D7096',
+            'transition' : 'fill 2s'
+        })
+        $('#bg-need').css({
+            'fill': '#1D7096',
+            'transition' : 'fill 2s'
+        })
+
+
+
+        $('.abends').toggleClass('active', false);
+        $('.mittags').toggleClass('active', false);
+        $('.morgens').toggleClass('active', true);
+
         flag = 1
     });
 
@@ -43,6 +58,19 @@ $( document ).ready(function() {
             'transform' : 'translate(300px, 330px)',
             'transition' : 'transform 2s'
         });
+        $('#bg').css({
+            'fill': '#8DC6E0',
+            'transition' : 'fill 2s'
+        })
+        $('#bg-need').css({
+            'fill': '#8DC6E0',
+            'transition' : 'fill 2s'
+        })
+
+
+        $('.morgens').toggleClass('active',false);
+        $('.abends').toggleClass('active', false);
+        $('.mittags').toggleClass('active', true);
 
         flag = 2
     });
@@ -61,6 +89,19 @@ $( document ).ready(function() {
             'transform' : 'translate(15px, -25px)',
             'transition' : 'transform 2s'
         });
+        $('#bg').css({
+            'fill': 'rgb(18, 90, 123)',
+            'transition' : 'fill 2s'
+        })
+        $('#bg-need').css({
+            'fill': 'rgb(18, 90, 123)',
+            'transition' : 'fill 2s'
+        })
+
+
+        $('.morgens').toggleClass('active', false);
+        $('.mittags').toggleClass('active', false);
+        $('.abends').toggleClass('active', true);
 
         flag = 3
 

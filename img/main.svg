@@ -1308,7 +1308,7 @@
 	</g>
 </g>
 <rect id="fenstersockel" x="-2202.3" y="-712.5" fill="#D9DAD8" width="1000.7" height="25.9"/>
-<rect x="-2204.8" y="-686" fill="#8DC6E0" width="1009.4" height="355.4"/>
+<rect id="bg-need" x="-2204.8" y="-686" fill="#8DC6E0" width="1009.4" height="355.4"/>
 <text id="antwort-1-text" x="-2140" y="-650" font-family="Century Gothic" font-size="35" font-weight="bold"><tspan dx="-30">Ich habe gesundheitliche Problem,</tspan><tspan dx="-610" dy="45"> die ich auf meine Arbeit zurückführe</tspan></text>
 <text id="antwort-2-text" x="-2140" y="-650" font-family="Century Gothic" font-size="35" font-weight="bold"><tspan dx="-30">Ich habe durch meine Arbeit zur Zeit keine</tspan><tspan dx="-730" dy="45"> gesundheitlichen Probleme</tspan></text>
 <text id="antwort-3-text" x="-2140" y="-650" font-family="Century Gothic" font-size="35" font-weight="bold"><tspan dx="-30">Ich befürchte durch meine Arbeit (zukünftig)</tspan><tspan dx="-750" dy="45"> gesundheitliche Probleme</tspan></text>

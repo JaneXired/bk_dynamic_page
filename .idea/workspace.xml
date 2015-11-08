@@ -2,28 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d936475-1f70-4e39-a128-12316212d3a6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/umfrage.sql" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/main.svg" afterPath="$PROJECT_DIR$/img/main.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/my.js" afterPath="$PROJECT_DIR$/js/my.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result.php" afterPath="$PROJECT_DIR$/result.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="caro_janine_nico.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
-    <file path="/Dummy.txt" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1447020683622" ignored="false" />
+    <file path="/Dummy.txt" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1447021548454" ignored="false" />
     <file path="/cactus-big-03.svg" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1446398307595" ignored="false" />
     <file path="/cactus-big-01.svg" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1446403164093" ignored="false" />
-    <file path="/style.css" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1447015449923" ignored="false" />
+    <file path="/style.css" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1447021858629" ignored="false" />
     <file path="/content.php" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1446378144102" ignored="false" />
     <file path="/surveylayer.php" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1446377929851" ignored="false" />
     <file path="/index.php" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1447013288418" ignored="false" />
-    <file path="/my.js" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1447019899576" ignored="false" />
+    <file path="/my.js" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1447022596819" ignored="false" />
     <file path="/main-bg.svg" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1446405989500" ignored="false" />
     <file path="/result.php" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1447001332518" ignored="false" />
     <file path="/cactus-big-04.svg" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1446398287293" ignored="false" />
     <file path="/cactus-big-05.svg" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1446398292879" ignored="false" />
     <file path="/cactus-big-02.svg" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1446398302371" ignored="false" />
-    <file path="/main.svg" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1447015353682" ignored="false" />
+    <file path="/main.svg" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1447022813142" ignored="false" />
     <file path="/uebung-abend.svg" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1447013189867" ignored="false" />
     <file path="/uebung-mittag.svg" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1447013226272" ignored="false" />
     <file path="/uebung-morgen.svg" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1447016253637" ignored="false" />
@@ -46,10 +47,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="my.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="my.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/my.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="177" column="52" selection-start="4325" selection-end="4325" vertical-scroll-proportion="0.0">
+            <state line="96" column="37" selection-start="2763" selection-end="2763" vertical-scroll-proportion="0.74473065">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.svg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/main.svg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1310" column="10" selection-start="104104" selection-end="104111" vertical-scroll-proportion="-27.4">
               <folding />
             </state>
           </provider>
@@ -73,10 +83,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="10" selection-start="680" selection-end="680" vertical-scroll-proportion="0.23049219">
+            <state line="16" column="10" selection-start="680" selection-end="680" vertical-scroll-proportion="-9.142858">
               <folding />
             </state>
           </provider>
@@ -85,7 +95,7 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="322" column="45" selection-start="5233" selection-end="5233" vertical-scroll-proportion="0.0">
+            <state line="174" column="16" selection-start="2643" selection-end="2643" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -123,14 +133,14 @@
         <option value="$PROJECT_DIR$/img/main-bg.svg" />
         <option value="$PROJECT_DIR$/navi.php" />
         <option value="$PROJECT_DIR$/surveylayer.php" />
-        <option value="$PROJECT_DIR$/img/main.svg" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/img/uebung-abend.svg" />
         <option value="$PROJECT_DIR$/img/uebung-mittag.svg" />
         <option value="$PROJECT_DIR$/img/uebung-morgen.svg" />
         <option value="$PROJECT_DIR$/result.php" />
-        <option value="$PROJECT_DIR$/js/my.js" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/img/main.svg" />
+        <option value="$PROJECT_DIR$/js/my.js" />
       </list>
     </option>
   </component>
@@ -213,6 +223,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="caro_janine_nico" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="caro_janine_nico" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -327,7 +351,11 @@
       <created>1447020691281</created>
       <updated>1447020691281</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="+ cleaned the code">
+      <created>1447021558448</created>
+      <updated>1447021558448</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -406,7 +434,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ included practice svg's &#10;+ functions for practive svg's" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ cleaned the code" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -432,6 +460,7 @@
     <MESSAGE value="+ main svg animation" />
     <MESSAGE value="+ changes in svg (text)" />
     <MESSAGE value="+ included practice svg's &#10;+ functions for practive svg's" />
+    <MESSAGE value="+ cleaned the code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -484,13 +513,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/main.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1315" column="185" selection-start="105320" selection-end="105320" vertical-scroll-proportion="-28.8">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/uebung-morgen.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="88" selection-start="356" selection-end="356" vertical-scroll-proportion="0.07134364">
@@ -512,20 +534,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="322" column="45" selection-start="5233" selection-end="5233" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/my.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="177" column="52" selection-start="4325" selection-end="4325" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/result.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="0" selection-start="80" selection-end="80" vertical-scroll-proportion="-1.1428572">
@@ -542,7 +550,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="10" selection-start="680" selection-end="680" vertical-scroll-proportion="0.23049219">
+        <state line="16" column="10" selection-start="680" selection-end="680" vertical-scroll-proportion="-9.142858">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="174" column="16" selection-start="2643" selection-end="2643" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/main.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1310" column="10" selection-start="104104" selection-end="104111" vertical-scroll-proportion="-27.4">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/my.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="37" selection-start="2763" selection-end="2763" vertical-scroll-proportion="0.74473065">
           <folding />
         </state>
       </provider>

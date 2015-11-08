@@ -168,19 +168,11 @@ body nav ul li a {
     transition: all 0.5s;
 }
 
-body nav ul li a:hover {
+body nav ul li a:hover, body nav ul li a.active {
     color: #053143;
 }
 
 /* Navi Icons */
-a.home:before {
-    content: "";
-    background: url("../img/sprite.png") no-repeat;
-	background-position: -7px -11px;
-	background-size: 152px;
-    padding-right: 25px;
-    transition: all 0.5s;
-}
 
 a.morgens:before {
     content: "";
@@ -209,19 +201,15 @@ a.abends:before {
     transition: all 0.5s;
 }
 
-a.home:hover:before  {
-    background-position: -7px -52px;
-}
-
-a.morgens:hover:before  {
+a.morgens:hover:before, a.morgens.active:before   {
     background-position: -47px -51px;
 }
 
-a.mittags:hover:before  {
+a.mittags:hover:before, a.mittags.active:before   {
     background-position: -85px -51px;
 }
 
-a.abends:hover:before  {
+a.abends:hover:before, a.abends.active:before  {
     background-position: -122px -51px;
 }
 
