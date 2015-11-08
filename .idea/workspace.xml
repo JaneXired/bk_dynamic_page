@@ -3,28 +3,26 @@
   <component name="ChangeListManager">
     <list default="true" id="1d936475-1f70-4e39-a128-12316212d3a6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/main.svg" afterPath="$PROJECT_DIR$/img/main.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/my.js" afterPath="$PROJECT_DIR$/js/my.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/navi.php" afterPath="$PROJECT_DIR$/navi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result.php" afterPath="$PROJECT_DIR$/result.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="caro_janine_nico.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
-    <file path="/Dummy.txt" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1446409187930" ignored="false" />
+    <file path="/Dummy.txt" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1447002654292" ignored="false" />
     <file path="/cactus-big-03.svg" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1446398307595" ignored="false" />
     <file path="/cactus-big-01.svg" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1446403164093" ignored="false" />
-    <file path="/style.css" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1446413550163" ignored="false" />
+    <file path="/style.css" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1446999697430" ignored="false" />
     <file path="/content.php" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1446378144102" ignored="false" />
     <file path="/surveylayer.php" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1446377929851" ignored="false" />
     <file path="/index.php" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1446404388590" ignored="false" />
-    <file path="/my.js" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1446411249506" ignored="false" />
+    <file path="/my.js" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1447001319950" ignored="false" />
     <file path="/main-bg.svg" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1446405989500" ignored="false" />
-    <file path="/result.php" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1446409474849" ignored="false" />
+    <file path="/result.php" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1447001332518" ignored="false" />
     <file path="/cactus-big-04.svg" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1446398287293" ignored="false" />
     <file path="/cactus-big-05.svg" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1446398292879" ignored="false" />
     <file path="/cactus-big-02.svg" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1446398302371" ignored="false" />
-    <file path="/main.svg" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1446412618313" ignored="false" />
+    <file path="/main.svg" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1447000996872" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,19 +42,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="result.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/result.php">
+      <file leaf-file-name="my.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/my.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="108" column="11" selection-start="2804" selection-end="2804" vertical-scroll-proportion="-28.190475">
+            <state line="108" column="0" selection-start="3448" selection-end="3448" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="my.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/my.js">
+      <file leaf-file-name="result.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/result.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="49" selection-start="1365" selection-end="1365" vertical-scroll-proportion="0.0">
+            <state line="5" column="0" selection-start="75" selection-end="75" vertical-scroll-proportion="-2.857143">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dbconnect.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dbconnect.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="38" selection-start="333" selection-end="333" vertical-scroll-proportion="-5.714286">
               <folding />
             </state>
           </provider>
@@ -65,43 +90,25 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="17" selection-start="800" selection-end="800" vertical-scroll-proportion="-15.428572">
+            <state line="15" column="42" selection-start="638" selection-end="672" vertical-scroll-proportion="-8.571428">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.svg" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.svg" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/img/main.svg">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="266" column="31" selection-start="17395" selection-end="17395" vertical-scroll-proportion="-11.36">
+            <state line="632" column="108" selection-start="46342" selection-end="46342" vertical-scroll-proportion="2.9262784">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="291" column="6" selection-start="4780" selection-end="4780" vertical-scroll-proportion="0.83138174">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navi.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/navi.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="19" selection-start="90" selection-end="156" vertical-scroll-proportion="-4.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="surveylayer.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/surveylayer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="0" selection-start="1019" selection-end="1019" vertical-scroll-proportion="-14.857142">
+            <state line="69" column="8" selection-start="1230" selection-end="1230" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -140,11 +147,11 @@
         <option value="$PROJECT_DIR$/img/cactus-big-05.svg" />
         <option value="$PROJECT_DIR$/img/main-bg.svg" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/result.php" />
         <option value="$PROJECT_DIR$/navi.php" />
-        <option value="$PROJECT_DIR$/js/my.js" />
-        <option value="$PROJECT_DIR$/img/main.svg" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/js/my.js" />
+        <option value="$PROJECT_DIR$/result.php" />
+        <option value="$PROJECT_DIR$/img/main.svg" />
       </list>
     </option>
   </component>
@@ -154,7 +161,7 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="34" />
-    <option name="y" value="24" />
+    <option name="y" value="23" />
     <option name="width" value="1797" />
     <option name="height" value="1002" />
   </component>
@@ -199,48 +206,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="caro_janine_nico" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="caro_janine_nico" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="caro_janine_nico" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="caro_janine_nico" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="caro_janine_nico" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="caro_janine_nico" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="caro_janine_nico" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -335,11 +300,19 @@
       <created>1446409200253</created>
       <updated>1446409200253</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="+ main svg animation">
+      <created>1446414138770</created>
+      <updated>1446414138770</updated>
+    </task>
+    <task id="LOCAL-00011" summary="+ changes in svg (text)">
+      <created>1447002667656</created>
+      <updated>1447002667656</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="34" y="24" width="1797" height="1002" extended-state="0" />
+    <frame x="34" y="23" width="1797" height="1002" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -347,7 +320,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29354656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29697317" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -414,7 +387,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ new main svg" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ changes in svg (text)" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -437,6 +410,8 @@
     <MESSAGE value="+ new svg, new structure" />
     <MESSAGE value="+ calculated percent in px for svg transformation" />
     <MESSAGE value="+ new main svg" />
+    <MESSAGE value="+ main svg animation" />
+    <MESSAGE value="+ changes in svg (text)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -444,9 +419,50 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/results.php">
+    <entry file="file://$PROJECT_DIR$/img/cactus-big-05.svg">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="100" column="132" selection-start="7897" selection-end="7897" vertical-scroll-proportion="0.8735363" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/cactus-big.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/cactus-big-muster.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="113" selection-start="1136" selection-end="1136" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/main-bg.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="46" selection-start="1116" selection-end="1116" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="19" selection-start="90" selection-end="156" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="8" selection-start="1230" selection-end="1230" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/cactus-big-01.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="126" selection-start="7803" selection-end="7803" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/my.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="108" column="0" selection-start="3448" selection-end="3448" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -458,100 +474,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/cactus-big-02.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="100" column="43" selection-start="7524" selection-end="7524" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/img/sprite.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/cactus-big-03.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="100" column="47" selection-start="7812" selection-end="7812" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/cactus-big-04.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="79" selection-start="2630" selection-end="2630" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/cactus-big-05.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="100" column="132" selection-start="7897" selection-end="7897" vertical-scroll-proportion="0.8735363">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/cactus-big.svg">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/cactus-big-muster.svg">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="113" selection-start="1136" selection-end="1136" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/main-bg.svg">
+    <entry file="file://$PROJECT_DIR$/dbconnect.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="46" selection-start="1116" selection-end="1116" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="17" selection-start="800" selection-end="800" vertical-scroll-proportion="-15.428572">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/cactus-big-01.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="101" column="133" selection-start="7698" selection-end="7810" vertical-scroll-proportion="0.8735363">
+        <state line="10" column="38" selection-start="333" selection-end="333" vertical-scroll-proportion="-5.714286">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/result.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="108" column="11" selection-start="2804" selection-end="2804" vertical-scroll-proportion="-28.190475">
+        <state line="5" column="0" selection-start="75" selection-end="75" vertical-scroll-proportion="-2.857143">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/navi.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="19" selection-start="90" selection-end="156" vertical-scroll-proportion="-4.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/my.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="49" selection-start="1365" selection-end="1365" vertical-scroll-proportion="0.0">
+        <state line="15" column="42" selection-start="638" selection-end="672" vertical-scroll-proportion="-8.571428">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/main.svg">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="266" column="31" selection-start="17395" selection-end="17395" vertical-scroll-proportion="-11.36">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="291" column="6" selection-start="4780" selection-end="4780" vertical-scroll-proportion="0.83138174">
+        <state line="632" column="108" selection-start="46342" selection-end="46342" vertical-scroll-proportion="2.9262784">
           <folding />
         </state>
       </provider>
