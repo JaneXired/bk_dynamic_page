@@ -16,13 +16,11 @@
 	    <?php include 'surveylayer.php' ?>
 	</div>
 
-
 	<div class="content">
 
 		<header>
 			<?php include 'navi.php' ?>
 		</header>
-
 
 		<section class="main-svg">
 			<?php
@@ -37,7 +35,5 @@
 		</section>
 
 	</div>
-
-
 
 </body>

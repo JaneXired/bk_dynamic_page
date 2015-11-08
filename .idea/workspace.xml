@@ -2,20 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d936475-1f70-4e39-a128-12316212d3a6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/uebung-abend.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/uebung-mittag.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/uebung-morgen.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/main.svg" afterPath="$PROJECT_DIR$/img/main.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/my.js" afterPath="$PROJECT_DIR$/js/my.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/surveylayer.php" afterPath="$PROJECT_DIR$/surveylayer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result.php" afterPath="$PROJECT_DIR$/result.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="caro_janine_nico.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
-    <file path="/Dummy.txt" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1447004800566" ignored="false" />
+    <file path="/Dummy.txt" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1447020683622" ignored="false" />
     <file path="/cactus-big-03.svg" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1446398307595" ignored="false" />
     <file path="/cactus-big-01.svg" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1446403164093" ignored="false" />
     <file path="/style.css" changelist="1d936475-1f70-4e39-a128-12316212d3a6" time="1447015449923" ignored="false" />
@@ -40,7 +35,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
+    <option name="PATCH_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
@@ -51,10 +46,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="my.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="my.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/my.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="0" selection-start="813" selection-end="813" vertical-scroll-proportion="0.36533958">
+            <state line="177" column="52" selection-start="4325" selection-end="4325" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -63,7 +58,7 @@
       <file leaf-file-name="result.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/result.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="75" selection-end="75" vertical-scroll-proportion="-2.857143">
+            <state line="2" column="0" selection-start="80" selection-end="80" vertical-scroll-proportion="-1.1428572">
               <folding />
             </state>
           </provider>
@@ -72,52 +67,16 @@
       <file leaf-file-name="dbconnect.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dbconnect.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="38" selection-start="333" selection-end="333" vertical-scroll-proportion="-5.714286">
+            <state line="5" column="34" selection-start="239" selection-end="239" vertical-scroll-proportion="-2.857143">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="0" selection-start="913" selection-end="913" vertical-scroll-proportion="-18.857143">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.svg" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/main.svg">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1315" column="185" selection-start="105320" selection-end="105320" vertical-scroll-proportion="-28.8">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="uebung-morgen.svg" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/uebung-morgen.svg">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="88" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="uebung-mittag.svg" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/uebung-mittag.svg">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="211" selection-start="584" selection-end="584" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="uebung-abend.svg" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/uebung-abend.svg">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="170" column="33" selection-start="13940" selection-end="14028" vertical-scroll-proportion="0.0">
+            <state line="16" column="10" selection-start="680" selection-end="680" vertical-scroll-proportion="0.23049219">
               <folding />
             </state>
           </provider>
@@ -163,15 +122,15 @@
         <option value="$PROJECT_DIR$/img/cactus-big-05.svg" />
         <option value="$PROJECT_DIR$/img/main-bg.svg" />
         <option value="$PROJECT_DIR$/navi.php" />
-        <option value="$PROJECT_DIR$/result.php" />
         <option value="$PROJECT_DIR$/surveylayer.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/img/main.svg" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/img/uebung-abend.svg" />
         <option value="$PROJECT_DIR$/img/uebung-mittag.svg" />
         <option value="$PROJECT_DIR$/img/uebung-morgen.svg" />
+        <option value="$PROJECT_DIR$/result.php" />
         <option value="$PROJECT_DIR$/js/my.js" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -226,6 +185,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="caro_janine_nico" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="caro_janine_nico" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="caro_janine_nico" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -346,7 +319,15 @@
       <created>1447004809187</created>
       <updated>1447004809187</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="+ included practice svg's &#10;+ functions for practive svg's">
+      <created>1447020632932</created>
+      <updated>1447020632932</updated>
+    </task>
+    <task id="LOCAL-00014" summary="+ included practice svg's &#10;+ functions for practive svg's">
+      <created>1447020691281</created>
+      <updated>1447020691281</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -358,7 +339,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24957167" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29697317" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29697317" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -425,7 +406,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ changes in svg (text)" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ included practice svg's &#10;+ functions for practive svg's" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -450,6 +431,7 @@
     <MESSAGE value="+ new main svg" />
     <MESSAGE value="+ main svg animation" />
     <MESSAGE value="+ changes in svg (text)" />
+    <MESSAGE value="+ included practice svg's &#10;+ functions for practive svg's" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -495,30 +477,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dbconnect.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="38" selection-start="333" selection-end="333" vertical-scroll-proportion="-5.714286">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/surveylayer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="109" selection-start="592" selection-end="592" vertical-scroll-proportion="-7.428571">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="322" column="45" selection-start="5233" selection-end="5233" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="0" selection-start="913" selection-end="913" vertical-scroll-proportion="-18.857143">
           <folding />
         </state>
       </provider>
@@ -530,37 +491,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/result.php">
+    <entry file="file://$PROJECT_DIR$/img/uebung-morgen.svg">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="75" selection-end="75" vertical-scroll-proportion="-2.857143">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/uebung-abend.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="170" column="33" selection-start="13940" selection-end="14028" vertical-scroll-proportion="0.0">
+        <state line="5" column="88" selection-start="356" selection-end="356" vertical-scroll-proportion="0.07134364">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/uebung-mittag.svg">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="211" selection-start="584" selection-end="584" vertical-scroll-proportion="0.0">
+        <state line="6" column="211" selection-start="584" selection-end="584" vertical-scroll-proportion="0.085612364">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/uebung-morgen.svg">
+    <entry file="file://$PROJECT_DIR$/img/uebung-abend.svg">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="88" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0">
+        <state line="170" column="33" selection-start="13940" selection-end="14028" vertical-scroll-proportion="2.4256837">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="322" column="45" selection-start="5233" selection-end="5233" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/my.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="813" selection-end="813" vertical-scroll-proportion="0.36533958">
+        <state line="177" column="52" selection-start="4325" selection-end="4325" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="80" selection-end="80" vertical-scroll-proportion="-1.1428572">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbconnect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="34" selection-start="239" selection-end="239" vertical-scroll-proportion="-2.857143">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="10" selection-start="680" selection-end="680" vertical-scroll-proportion="0.23049219">
           <folding />
         </state>
       </provider>

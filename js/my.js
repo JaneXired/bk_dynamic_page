@@ -8,7 +8,7 @@ $( document ).ready(function() {
     });
 
     /* function for navigation - window transition */
-    var flag = 0;
+    var flag = 0; /* flag for my practice function to decide which practice to show */
 
     $('.morgens').on('click', function(){
         $('#sonne_morgens').css({
@@ -111,7 +111,7 @@ $( document ).ready(function() {
         });
     });
 
-    /* making answer text visible on hover */
+    /* making answer-text visible on hover */
 
     $('#cactus-1').on('mouseenter', function() {
         $('#antwort-1-text').css({
@@ -175,7 +175,7 @@ $( document ).ready(function() {
 });
 
 
-/* ajax function for dynamic grow of cati (diagram)  */
+/* ajax function for dynamic grow of cati (diagram) */
 $(function () {
     var gruppe;
     $('.form').on('submit', function (e) {
