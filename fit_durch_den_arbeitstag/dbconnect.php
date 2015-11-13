@@ -8,6 +8,6 @@
 	   // echo"connected to localhost";
     //}
 
-	mysql_select_db("meo3", $connect);
+	mysql_select_db("derix-hensel-brehmer", $connect);
 
 ?>

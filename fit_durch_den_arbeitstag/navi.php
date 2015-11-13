@@ -1,7 +1,7 @@
 <nav>
 	<ul>
 		<li>
-			<img src="img/logo.png" alt="Fit druch den Arbeitstag">		
+			<img src="img/logo.png" alt="Fit druch den Arbeitstag">
 		</li>
 		<!--<li>
 			<a href="#home" class="home">Home</a>					

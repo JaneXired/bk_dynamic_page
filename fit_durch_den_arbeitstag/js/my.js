@@ -1,5 +1,16 @@
 $( document ).ready(function() {
 
+    /* var to "find" once and not for each function */
+    $morgens = $('.morgens');
+    $mittags = $('.mittags');
+    $abends = $('.abends');
+
+    $uebung_morgens = $('#uebung-morgen');
+    $uebung_mittags = $('#uebung-mittag');
+    $uebung_abends = $('#uebung-abend');
+
+    $($morgens).toggleClass('active', true);
+
     /* function for layer */
     $('.button').on('click', function(){
         $('.roleTop').toggleClass('transition-top');
@@ -10,7 +21,7 @@ $( document ).ready(function() {
     /* function for navigation - window transition */
     var flag = 0; /* flag for my practice function to decide which practice to show */
 
-    $('.morgens').on('click', function(){
+    $($morgens).on('click', function(){
         $('#sonne_morgens').css({
             'transform' : 'translate(0, 0)',
             'transition' : 'transform 2s'
@@ -36,14 +47,14 @@ $( document ).ready(function() {
 
 
 
-        $('.abends').toggleClass('active', false);
-        $('.mittags').toggleClass('active', false);
-        $('.morgens').toggleClass('active', true);
+        $($abends).toggleClass('active', false);
+        $($mittags).toggleClass('active', false);
+        $($morgens).toggleClass('active', true);
 
         flag = 1
     });
 
-    $('.mittags').on('click', function(){
+    $($mittags).on('click', function(){
        $('#sonne_morgens').css({
            'transform' : 'translate(75px, -145px)',
            'transition' : 'transform 2s'
@@ -68,14 +79,14 @@ $( document ).ready(function() {
         })
 
 
-        $('.morgens').toggleClass('active',false);
-        $('.abends').toggleClass('active', false);
-        $('.mittags').toggleClass('active', true);
+        $($morgens).toggleClass('active',false);
+        $($abends).toggleClass('active', false);
+        $($mittags).toggleClass('active', true);
 
         flag = 2
     });
 
-    $('.abends').on('click', function(){
+    $($abends).on('click', function(){
         $('#sonne_morgens').css({
             'transform' : 'translate(270px, 260px)',
             'transition' : 'transform 2s'
@@ -99,9 +110,9 @@ $( document ).ready(function() {
         })
 
 
-        $('.morgens').toggleClass('active', false);
-        $('.mittags').toggleClass('active', false);
-        $('.abends').toggleClass('active', true);
+        $($morgens).toggleClass('active', false);
+        $($mittags).toggleClass('active', false);
+        $($abends).toggleClass('active', true);
 
         flag = 3
 
@@ -111,43 +122,45 @@ $( document ).ready(function() {
 
     $('#lampe').on('click', function() {
         if (flag === 1) {
-            $('#uebung-morgen').css({
+            $($uebung_morgens).css({
                 'display' : 'block'
             });
         }
         else if (flag === 2 ) {
-            $('#uebung-mittag').css({
+            $($uebung_mittags).css({
                 'display' : 'block'
             });
         }
 
         else if (flag === 3 ) {
-            $('#uebung-abend').css({
+            $($uebung_abends).css({
                 'display' : 'block'
             });
         }
         else {
-            console.log('flag isnt 1, 2 or 3' );
+            $($uebung_morgens).css({
+                'display' : 'block'
+            });
         }
 
     });
 
     /* close the practices */
 
-    $('#uebung-morgen').on('click', function () {
-        $('#uebung-morgen').css({
+    $($uebung_morgens).on('click', function () {
+        $($uebung_morgens).css({
             'display' : 'none'
         });
     });
 
-    $('#uebung-mittag').on('click', function () {
-        $('#uebung-mittag').css({
+    $($uebung_mittags).on('click', function () {
+        $($uebung_mittags).css({
             'display' : 'none'
         });
     });
 
-    $('#uebung-abend').on('click', function () {
-        $('#uebung-abend').css({
+    $($uebung_abends).on('click', function () {
+        $($uebung_abends).css({
             'display' : 'none'
         });
     });

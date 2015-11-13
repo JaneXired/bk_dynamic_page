@@ -163,7 +163,7 @@ body nav ul li:first-child {
 
 body nav ul li a {
     color: #fff;
-    font-size: 14px;
+    font-size: 16px;
     text-decoration: none;
     transition: all 0.5s;
 }
@@ -238,6 +238,10 @@ section.main-svg {
 /* SVG Styles*/
 svg.main-bg {
 	width: 100%;
+}
+
+text, tspan {
+    font-family: 'Century Gothic'
 }
 
 .st0{fill:#51A529;}
@@ -316,6 +320,10 @@ svg.main-bg {
 	background-color: #fff;
 	padding: 20px;
 	margin-top: 1%;
+}
+
+#bg, #bg-need {
+    fill: rgb(29, 112, 150);
 }
 
 

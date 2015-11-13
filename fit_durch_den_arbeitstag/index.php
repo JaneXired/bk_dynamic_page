@@ -30,7 +30,7 @@
 
 				include 'img/uebung-abend.svg';
 
-				include 'img/main.svg'
+			include 'img/main.svg'
 			?>
 		</section>
 

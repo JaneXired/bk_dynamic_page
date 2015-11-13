@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+- phpMyAdmin XML Dump
+- version 4.4.14
+- https://www.phpmyadmin.net
+-
+- Host: 127.0.0.1
+- Erstellungszeit: 13. Nov 2015 um 17:56
+- Server-Version: 5.6.26
+- PHP-Version: 5.5.28
+-->
+
+<pma_xml_export version="1.0" xmlns:pma="http://www.phpmyadmin.net/some_doc_url/">
+    <!--
+    - Structure schemas
+    -->
+    <pma:structure_schemas>
+        <pma:database name="derix-hensel-brehmer" collation="utf8mb4_general_ci" charset="utf8mb4">
+            <pma:table name="umfrage">
+                CREATE TABLE `umfrage` (
+                  `id` int(3) NOT NULL AUTO_INCREMENT,
+                  `antwort_1` int(1) NOT NULL,
+                  `antwort_2` int(1) NOT NULL,
+                  `antwort_3` int(1) NOT NULL,
+                  `antwort_4` int(1) NOT NULL,
+                  `antwort_5` int(1) NOT NULL,
+                  PRIMARY KEY (`id`)
+                ) ENGINE=InnoDB AUTO_INCREMENT=277 DEFAULT CHARSET=utf8mb4;
+            </pma:table>
+        </pma:database>
+    </pma:structure_schemas>
+
+    <!--
+    - Datenbank: 'derix-hensel-brehmer'
+    -->
+    <database name="derix-hensel-brehmer">
+        <!-- Tabelle umfrage -->
+        <table name="umfrage">
+            <column name="id">218</column>
+            <column name="antwort_1">1</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">219</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">1</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">220</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">1</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">221</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">1</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">222</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">1</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">223</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">1</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">224</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">1</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">225</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">1</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">226</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">1</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">227</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">1</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">228</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">1</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">229</column>
+            <column name="antwort_1">1</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">230</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">1</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">231</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">1</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">232</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">1</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">233</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">1</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">234</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">1</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">235</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">1</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">236</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">1</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">237</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">1</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">238</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">1</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">239</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">1</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">240</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">1</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">241</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">1</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">242</column>
+            <column name="antwort_1">1</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">243</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">1</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">244</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">1</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">245</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">1</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">246</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">1</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">247</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">1</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">248</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">1</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">249</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">1</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">250</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">1</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">251</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">1</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">252</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">1</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">253</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">1</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">254</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">1</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">255</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">256</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">1</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">257</column>
+            <column name="antwort_1">1</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">258</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">1</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">259</column>
+            <column name="antwort_1">1</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">260</column>
+            <column name="antwort_1">1</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">261</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">1</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">262</column>
+            <column name="antwort_1">1</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">263</column>
+            <column name="antwort_1">1</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">264</column>
+            <column name="antwort_1">1</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">265</column>
+            <column name="antwort_1">1</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">266</column>
+            <column name="antwort_1">1</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">267</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">1</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">268</column>
+            <column name="antwort_1">0</column>
+            <column name="antwort_2">1</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">269</column>
+            <column name="antwort_1">1</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">270</column>
+            <column name="antwort_1">1</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">271</column>
+            <column name="antwort_1">1</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">272</column>
+            <column name="antwort_1">1</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">273</column>
+            <column name="antwort_1">1</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">274</column>
+            <column name="antwort_1">1</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">275</column>
+            <column name="antwort_1">1</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+        <table name="umfrage">
+            <column name="id">276</column>
+            <column name="antwort_1">1</column>
+            <column name="antwort_2">0</column>
+            <column name="antwort_3">0</column>
+            <column name="antwort_4">0</column>
+            <column name="antwort_5">0</column>
+        </table>
+    </database>
+</pma_xml_export>
