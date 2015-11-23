@@ -2,30 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d936475-1f70-4e39-a128-12316212d3a6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/derix-hensel-brehmer.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/derix-hensel-brehmer.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/derix-hensel-brehmer.xml" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\bk_dynamic_page\css\style.css" afterPath="$PROJECT_DIR$/fit_durch_den_arbeitstag/css/style.css" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\bk_dynamic_page\dbconnect.php" afterPath="$PROJECT_DIR$/fit_durch_den_arbeitstag/dbconnect.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\bk_dynamic_page\img\Logo.png" afterPath="$PROJECT_DIR$/fit_durch_den_arbeitstag/img/Logo.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\bk_dynamic_page\img\cactus-big-muster.svg" afterPath="$PROJECT_DIR$/fit_durch_den_arbeitstag/img/cactus-big-muster.svg" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\bk_dynamic_page\img\cactus-big.svg" afterPath="$PROJECT_DIR$/fit_durch_den_arbeitstag/img/cactus-big.svg" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\bk_dynamic_page\img\main-bg.svg" afterPath="$PROJECT_DIR$/fit_durch_den_arbeitstag/img/main-bg.svg" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\bk_dynamic_page\img\main-muster.svg" afterPath="$PROJECT_DIR$/fit_durch_den_arbeitstag/img/main-muster.svg" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\bk_dynamic_page\img\main.svg" afterPath="$PROJECT_DIR$/fit_durch_den_arbeitstag/img/main.svg" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\bk_dynamic_page\img\rollo-1.png" afterPath="$PROJECT_DIR$/fit_durch_den_arbeitstag/img/rollo-1.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\bk_dynamic_page\img\rollo.png" afterPath="$PROJECT_DIR$/fit_durch_den_arbeitstag/img/rollo.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\bk_dynamic_page\img\sprite.png" afterPath="$PROJECT_DIR$/fit_durch_den_arbeitstag/img/sprite.png" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\bk_dynamic_page\img\uebung-abend.svg" afterPath="$PROJECT_DIR$/fit_durch_den_arbeitstag/img/uebung-abend.svg" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\bk_dynamic_page\img\uebung-mittag.svg" afterPath="$PROJECT_DIR$/fit_durch_den_arbeitstag/img/uebung-mittag.svg" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\bk_dynamic_page\img\uebung-morgen.svg" afterPath="$PROJECT_DIR$/fit_durch_den_arbeitstag/img/uebung-morgen.svg" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\bk_dynamic_page\index.php" afterPath="$PROJECT_DIR$/fit_durch_den_arbeitstag/index.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\bk_dynamic_page\js\jquery-1.11.3.min.js" afterPath="$PROJECT_DIR$/fit_durch_den_arbeitstag/js/jquery-1.11.3.min.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\bk_dynamic_page\js\my.js" afterPath="$PROJECT_DIR$/fit_durch_den_arbeitstag/js/my.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\bk_dynamic_page\navi.php" afterPath="$PROJECT_DIR$/fit_durch_den_arbeitstag/navi.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\bk_dynamic_page\result.php" afterPath="$PROJECT_DIR$/fit_durch_den_arbeitstag/result.php" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\bk_dynamic_page\surveylayer.php" afterPath="$PROJECT_DIR$/fit_durch_den_arbeitstag/surveylayer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\bk_dynamic_page\derix-hensel-brehmer.csv" afterPath="$PROJECT_DIR$/derix-hensel-bremer.csv" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\bk_dynamic_page\derix-hensel-brehmer.sql" afterPath="$PROJECT_DIR$/derix-hensel-bremer.sql" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\bk_dynamic_page\derix-hensel-brehmer.xml" afterPath="$PROJECT_DIR$/derix-hensel-bremer.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fit_durch_den_arbeitstag/dbconnect.php" afterPath="$PROJECT_DIR$/fit_durch_den_arbeitstag/dbconnect.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="caro_janine_nico.iws" />
@@ -51,11 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="my.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="my.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fit_durch_den_arbeitstag/js/my.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.04042806" vertical-offset="0" max-vertical-offset="4811">
-              <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4811">
+              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -64,7 +44,7 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fit_durch_den_arbeitstag/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="748">
+            <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="748">
               <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
               <folding />
             </state>
@@ -74,7 +54,7 @@
       <file leaf-file-name="navi.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fit_durch_den_arbeitstag/navi.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="408">
+            <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="408">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding />
             </state>
@@ -83,12 +63,52 @@
       </file>
       <file leaf-file-name="uebung-abend.svg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fit_durch_den_arbeitstag/img/uebung-abend.svg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-23.033333" vertical-offset="2199" max-vertical-offset="3026">
+              <caret line="170" column="53" selection-start-line="170" selection-start-column="53" selection-end-line="170" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
           <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
             <state />
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dbconnect.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fit_durch_den_arbeitstag/dbconnect.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.220339" vertical-offset="2228" max-vertical-offset="3026">
-              <caret line="170" column="53" selection-start-line="170" selection-start-column="53" selection-end-line="170" selection-end-column="53" />
+            <state vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="306">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="derix-hensel-bremer.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/derix-hensel-bremer.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.94" vertical-offset="13" max-vertical-offset="2516">
+              <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="derix-hensel-bremer.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/derix-hensel-bremer.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="14" max-vertical-offset="11220">
+              <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="derix-hensel-bremer.csv" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/derix-hensel-bremer.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1411">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -134,6 +154,7 @@
         <option value="$PROJECT_DIR$/fit_durch_den_arbeitstag/navi.php" />
         <option value="$PROJECT_DIR$/fit_durch_den_arbeitstag/css/style.css" />
         <option value="$PROJECT_DIR$/fit_durch_den_arbeitstag/js/my.js" />
+        <option value="$PROJECT_DIR$/fit_durch_den_arbeitstag/dbconnect.php" />
       </list>
     </option>
   </component>
@@ -235,10 +256,14 @@
     <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\bk_dynamic_page" />
+      <recent name="C:\xampp\htdocs\bk_dynamic_page\fit_durch_den_arbeitstag" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\bk_dynamic_page" />
       <recent name="C:\xampp\htdocs\bk_dynamic_page\fit_durch_den_arbeitstag" />
       <recent name="C:\xampp\htdocs\bk_dynamic_page\fit_durch_den_arbeitstag\css" />
-      <recent name="C:\xampp\htdocs\bk_dynamic_page" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="C:\xampp\htdocs\bk_dynamic_page\img" />
     </key>
@@ -258,15 +283,15 @@
       <BehatRunner />
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
       <tasks />
       <pass-parent-envs>true</pass-parent-envs>
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="0" />
@@ -393,7 +418,13 @@
       <option name="project" value="LOCAL" />
       <updated>1447344001714</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="+ cleaned the code, debugged a few functions and corrected the structure &#10;+ sql dump">
+      <created>1447435611428</created>
+      <option name="number" value="00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1447435611428</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -406,20 +437,20 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24957167" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3033049" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3065032" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -450,7 +481,8 @@
     <MESSAGE value="+ changes in svg (text)" />
     <MESSAGE value="+ included practice svg's &#10;+ functions for practive svg's" />
     <MESSAGE value="+ cleaned the code" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ cleaned the code" />
+    <MESSAGE value="+ cleaned the code, debugged a few functions and corrected the structure &#10;+ sql dump" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ cleaned the code, debugged a few functions and corrected the structure &#10;+ sql dump" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -459,6 +491,49 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/fit_durch_den_arbeitstag/js/my.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4811">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fit_durch_den_arbeitstag/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="748">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fit_durch_den_arbeitstag/navi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="408">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fit_durch_den_arbeitstag/img/uebung-abend.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2890" max-vertical-offset="3026">
+          <caret line="170" column="53" selection-start-line="170" selection-start-column="53" selection-end-line="170" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fit_durch_den_arbeitstag/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4825" max-vertical-offset="5695">
+          <caret line="324" column="13" selection-start-line="324" selection-start-column="13" selection-end-line="324" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fit_durch_den_arbeitstag/js/my.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1785" max-vertical-offset="4590">
@@ -471,7 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -479,33 +553,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2754">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fit_durch_den_arbeitstag/img/main.svg">
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="22270" max-vertical-offset="22491">
           <caret line="1310" column="10" selection-start-line="1310" selection-start-column="10" selection-end-line="1310" selection-end-column="10" />
-          <folding />
         </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fit_durch_den_arbeitstag/result.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1326" max-vertical-offset="2261">
           <caret line="96" column="0" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
-          <folding>
-            <marker date="1447433718881" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1447433718881" expanded="true" signature="-1:-1" placeholder="SELECT SUM(a..umfrage..." />
-            <marker date="1447433718881" expanded="true" signature="-1:-1" placeholder="SELECT SUM(a..umfrage..." />
-            <marker date="1447433718881" expanded="true" signature="-1:-1" placeholder="SELECT SUM(a..umfrage..." />
-            <marker date="1447433718881" expanded="true" signature="-1:-1" placeholder="SELECT SUM(a..umfrage..." />
-            <marker date="1447433718881" expanded="true" signature="-1:-1" placeholder="SELECT SUM(a..umfrage..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -545,7 +609,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="22270" max-vertical-offset="22491">
           <caret line="1310" column="10" selection-start-line="1310" selection-start-column="10" selection-end-line="1310" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
       <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
@@ -556,14 +619,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="2261">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <marker date="1447433718881" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1447433718881" expanded="true" signature="-1:-1" placeholder="SELECT SUM(a..umfrage..." />
-            <marker date="1447433718881" expanded="true" signature="-1:-1" placeholder="SELECT SUM(a..umfrage..." />
-            <marker date="1447433718881" expanded="true" signature="-1:-1" placeholder="SELECT SUM(a..umfrage..." />
-            <marker date="1447433718881" expanded="true" signature="-1:-1" placeholder="SELECT SUM(a..umfrage..." />
-            <marker date="1447433718881" expanded="true" signature="-1:-1" placeholder="SELECT SUM(a..umfrage..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -607,7 +662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.428571" vertical-offset="0" max-vertical-offset="0">
           <caret line="13" column="109" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -629,39 +683,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2754">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fit_durch_den_arbeitstag/dbconnect.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20858896" vertical-offset="0" max-vertical-offset="815">
-          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/derix-hensel-brehmer.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.46896553" vertical-offset="408" max-vertical-offset="8772">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/derix-hensel-brehmer.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1105">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/derix-hensel-brehmer.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14512195" vertical-offset="0" max-vertical-offset="2210">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -669,7 +690,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.52307695" vertical-offset="0" max-vertical-offset="845">
           <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -677,7 +697,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7327691" vertical-offset="21664" max-vertical-offset="22491">
           <caret line="1310" column="10" selection-start-line="1310" selection-start-column="10" selection-end-line="1310" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
       <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
@@ -688,20 +707,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.40274313" vertical-offset="0" max-vertical-offset="2261">
           <caret line="19" column="8" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="35" />
-          <folding>
-            <marker date="1447433718881" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1447433718881" expanded="true" signature="-1:-1" placeholder="SELECT SUM(a..umfrage..." />
-            <marker date="1447433718881" expanded="true" signature="-1:-1" placeholder="SELECT SUM(a..umfrage..." />
-            <marker date="1447433718881" expanded="true" signature="-1:-1" placeholder="SELECT SUM(a..umfrage..." />
-            <marker date="1447433718881" expanded="true" signature="-1:-1" placeholder="SELECT SUM(a..umfrage..." />
-            <marker date="1447433718881" expanded="true" signature="-1:-1" placeholder="SELECT SUM(a..umfrage..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fit_durch_den_arbeitstag/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="748">
+        <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="748">
           <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
           <folding />
         </state>
@@ -709,19 +720,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fit_durch_den_arbeitstag/navi.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="408">
+        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="408">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fit_durch_den_arbeitstag/img/uebung-abend.svg">
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.220339" vertical-offset="2228" max-vertical-offset="3026">
-          <caret line="170" column="53" selection-start-line="170" selection-start-column="53" selection-end-line="170" selection-end-column="53" />
           <folding />
         </state>
       </provider>
@@ -736,8 +736,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fit_durch_den_arbeitstag/js/my.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.04042806" vertical-offset="0" max-vertical-offset="4811">
-          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4811">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fit_durch_den_arbeitstag/img/uebung-abend.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.033333" vertical-offset="2199" max-vertical-offset="3026">
+          <caret line="170" column="53" selection-start-line="170" selection-start-column="53" selection-end-line="170" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fit_durch_den_arbeitstag/dbconnect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="306">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/derix-hensel-bremer.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.94" vertical-offset="13" max-vertical-offset="2516">
+          <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/derix-hensel-bremer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="14" max-vertical-offset="11220">
+          <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/derix-hensel-bremer.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1411">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

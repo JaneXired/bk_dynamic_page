@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Erstellungszeit: 13. Nov 2015 um 17:56
+-- Erstellungszeit: 23. Nov 2015 um 12:13
 -- Server-Version: 5.6.26
 -- PHP-Version: 5.5.28
 
@@ -17,7 +17,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Datenbank: `derix-hensel-brehmer`
+-- Datenbank: `derix-hensel-bremer`
 --
 
 -- --------------------------------------------------------
@@ -33,7 +33,7 @@ CREATE TABLE IF NOT EXISTS `umfrage` (
   `antwort_3` int(1) NOT NULL,
   `antwort_4` int(1) NOT NULL,
   `antwort_5` int(1) NOT NULL
-) ENGINE=InnoDB AUTO_INCREMENT=277 DEFAULT CHARSET=utf8mb4;
+) ENGINE=InnoDB AUTO_INCREMENT=295 DEFAULT CHARSET=utf8mb4;
 
 --
 -- Daten für Tabelle `umfrage`
@@ -98,7 +98,25 @@ INSERT INTO `umfrage` (`id`, `antwort_1`, `antwort_2`, `antwort_3`, `antwort_4`,
 (273, 1, 0, 0, 0, 0),
 (274, 1, 0, 0, 0, 0),
 (275, 1, 0, 0, 0, 0),
-(276, 1, 0, 0, 0, 0);
+(276, 1, 0, 0, 0, 0),
+(277, 0, 0, 0, 0, 1),
+(278, 0, 0, 1, 0, 0),
+(279, 1, 0, 0, 0, 0),
+(280, 1, 0, 0, 0, 0),
+(281, 1, 0, 0, 0, 0),
+(282, 0, 1, 0, 0, 0),
+(283, 1, 0, 0, 0, 0),
+(284, 1, 0, 0, 0, 0),
+(285, 0, 1, 0, 0, 0),
+(286, 1, 0, 0, 0, 0),
+(287, 1, 0, 0, 0, 0),
+(288, 0, 1, 0, 0, 0),
+(289, 1, 0, 0, 0, 0),
+(290, 1, 0, 0, 0, 0),
+(291, 0, 0, 0, 0, 1),
+(292, 1, 0, 0, 0, 0),
+(293, 1, 0, 0, 0, 0),
+(294, 0, 1, 0, 0, 0);
 
 --
 -- Indizes der exportierten Tabellen
@@ -118,7 +136,7 @@ ALTER TABLE `umfrage`
 -- AUTO_INCREMENT für Tabelle `umfrage`
 --
 ALTER TABLE `umfrage`
-  MODIFY `id` int(3) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=277;
+  MODIFY `id` int(3) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=295;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
